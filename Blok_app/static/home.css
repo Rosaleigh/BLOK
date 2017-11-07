@@ -1,0 +1,133 @@
+body {
+	
+}
+
+#title {
+	font-size:100px;
+	font-family:"Helvetica Neue";
+
+
+	text-align:center;
+	padding-top:30px;
+}
+
+
+
+#text {
+	padding-top:50px;
+}
+
+
+
+.write {
+	
+	background-color: #e8c053;
+	font-size: 30px;
+	font-family:"Helvetica Neue";
+
+	color:#ffffff;
+	height:160px;
+	text-align: center;
+	
+
+
+}
+
+.writelink {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+.writelink:hover{
+	 color: #d0a01f;
+	 text-decoration: none;
+}
+
+.create {
+	background-color: #f7566e;
+	font-size: 30px;
+	color:#ffffff;
+	height:160px;
+	text-align: center;
+	font-family:"Helvetica Neue";
+	
+}
+
+.createlink {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+.createlink:hover{
+	 color: #a31b2f;
+	 text-decoration: none;
+}
+
+
+.compose {
+	background-color: #700b1a;
+	font-size: 30px;
+	color:#ffffff;
+	height:160px;
+	text-align: center;
+	
+	font-family:"Helvetica Neue";
+
+
+
+}
+.composelink {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+.composelink:hover{
+	 color: #ff8798;
+	 text-decoration: none;
+}
+
+
+
+
+
+.focus {
+	background-color: #c16824;
+	font-size: 30px;
+	color:#ffffff;
+	height:160px;
+	text-align: center;
+	font-family:"Helvetica Neue";
+
+	
+}
+.focuslink {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+.focuslink:hover{
+	 color: #682f03;
+	 text-decoration: none;
+}
+
+
+
+
+
+
+.video{
+	display:none;
+}
+
+
+.cureme {
+	font-size:50px;
+	color:#00ffff;
+	font-weight:bold;
+	text-align: center
+
+}
+
+.glyphicon {
+	color:#000000;
+}

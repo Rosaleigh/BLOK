@@ -1,0 +1,29 @@
+<!doctype html>
+<link rel=“stylesheet” href=“//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css”>
+<html>
+    <head>
+        <title>My Horoscope App</title>
+    </head> 
+    <body>
+        {% if name %}
+        <p>Hello there {{name}}!</p>
+        {% else %}
+        <p>Hello anonymous person!</p>
+        {% endif %}
+
+
+    </body> 
+
+    <p>Let’s keep in touch!</p>
+
+        <div id="contact-form">
+            <form method="post" action="/signup">
+                <label for="text">Please Enter Your email:</label>
+                <input type="text" id="email" name="email" required="required">
+                <input type="submit" value="Submit" id="submit"/>
+            </form>
+        </div>
+
+</div>
+
+</html>
